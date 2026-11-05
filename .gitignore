@@ -1,0 +1,13 @@
+# Java bytecode
+*.class
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.iml
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
